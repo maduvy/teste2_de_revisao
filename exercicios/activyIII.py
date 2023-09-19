@@ -5,3 +5,4 @@ s=v1+v2
 
 #print("e resultado entre:",v1, 'e',v2, 'e',s)
 print("o valor entre {} e o resultado e{}".format(v1,v2,s))
+print('teste')
